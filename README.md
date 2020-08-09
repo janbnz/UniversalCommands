@@ -1,6 +1,6 @@
 # UniversalCommands
 
-> Send commands to all connected spigot servers with only one command!
+> Execute commands on all connected spigot servers with only one single command!
 
 [![Build Status](http://img.shields.io/travis/badges/badgerbadgerbadger.svg?style=flat-square)](https://travis-ci.org/badges/badgerbadgerbadger) 
 [![Coverage Status](http://img.shields.io/coveralls/badges/badgerbadgerbadger.svg?style=flat-square)](https://coveralls.io/r/badges/badgerbadgerbadger)
@@ -73,7 +73,7 @@ public static void main(String[] args) throws IOException {
       - A <a href="https://www.rabbitmq.com/" target="_blank">RabbitMQ</a> server.
     
 - **How can I use UniversalCommands?**
-    - Just execute ```/executeAll **your command**```
+    - Just execute ```/executeAll **your command**``` on one of the connected spigot servers.
   
 ---
 
