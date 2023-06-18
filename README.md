@@ -26,7 +26,7 @@ public static void main(String[] args) throws IOException {
 
 ### Clone
 
-- Clone this repo to your local machine using `https://github.com/Seltrox/UniversalCommands.git`
+- Clone this repo to your local machine using `https://github.com/janbnz/UniversalCommands.git`
 
 ## Documentation
 - Coming soon
@@ -49,7 +49,7 @@ public static void main(String[] args) throws IOException {
     - 🍴 Fork this repo!
 
 - **Option 2**
-    - 👯 Clone this repo to your local machine using `https://github.com/Seltrox/UniversalCommands.git`
+    - 👯 Clone this repo to your local machine using `https://github.com/janbnz/UniversalCommands.git`
 
 ### Step 2
 
@@ -57,7 +57,7 @@ public static void main(String[] args) throws IOException {
 
 ### Step 3
 
-- 🔃 Create a new pull request using <a href="https://github.com/Seltrox/UniversalCommands/compare/" target="_blank">`https://github.com/Seltrox/UniversalCommands/compare/`</a>.
+- 🔃 Create a new pull request using <a href="https://github.com/janbnz/UniversalCommands/compare/" target="_blank">`https://github.com/janbnz/UniversalCommands/compare/`</a>.
 
 ---
 
@@ -82,4 +82,4 @@ public static void main(String[] args) throws IOException {
 [![License](http://img.shields.io/:license-unlicense-blue.svg?style=flat-square)](http://badges.unlicense-license.org)
 
 - **[The Unlicense](https://unlicense.org/)**
-- Copyright 2020 © <a href="http://seltrox.de/" target="_blank">Jan Benz</a>.
+- Copyright 2020 © <a href="http://janbnz.de/" target="_blank">Jan Benz</a>.
